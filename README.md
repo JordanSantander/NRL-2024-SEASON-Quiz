@@ -13,7 +13,7 @@ Contents
 
 General Info
 
-The NRL 2024 Season Quiz was built to test NRL fans on the knowlegde of the recently completed NRL season. The quiz invites participants to partake in a 10 multiple choice question quiz that includes hints to each question. By the end of the quiz you will be categorised on the level of NRL fan you are from beginner to superfan.
+The NRL 2024 Season Quiz was built to test NRL fans on the knowlegde of the recently completed NRL season. The quiz invites participants to partake in a 10 multiple choice question quiz that includes hints to each question. The quiz was designed to coincide with the end of the NRL season, serving to provide new content to  people hungry for that continuous piece of NRL content in the off season. By the end of the quiz you will be categorised on the level of NRL fan you are from beginner to superfan.
 
 Software
 
