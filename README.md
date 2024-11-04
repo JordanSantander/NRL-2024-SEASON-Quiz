@@ -17,7 +17,7 @@ The NRL 2024 Season Quiz was built to test NRL fans on the knowlegde of the rece
 
 Software
 
-This project was completed with the use of Integrated Devolpment Environment Replit. 
+This project was completed with the use of Integrated Development Environment Replit. 
 Here's a link to the code in replt https://replit.com/@jordansantande1/2024-NRL-Season-Quiz#main.py 
 
 Sources
