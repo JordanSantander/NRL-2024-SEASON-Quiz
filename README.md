@@ -30,6 +30,8 @@ Makeuseof: How to Make an Interactive Quiz Game in Python https://www.makeuseof.
 
 Brocode Youtube Channel: https://www.youtube.com/watch?v=zehwgTB0vV8
 
+Freecodecamp: https://www.freecodecamp.org/news/how-to-use-replit/
+
 How to use
 
 To access this quiz you can:
