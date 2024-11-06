@@ -8,7 +8,7 @@ class Question:
         self.answer = answer
         self.hint = hint
 questions = [
-    Question("Who finished the season with the most tries in the NRL?\n(a) Alofiana Khan Pereria\n(b) Kyle Feldt\n(c) Ronaldo Mulitalo\n(d) Dominic Young", "a", "He plays for a team finished outside the Top 8"),
+    Question("Who finished the season with the most tries in the NRL?\n(a) Alofiana Khan Pereria\n(b) Kyle Feldt\n(c) Ronaldo Mulitalo\n(d) Dominic Young", "a", "He plays for a team that finished outside the Top 8"),
     Question("Which team placed first on the NRL ladder?\n(a) Penrith Panthers\n(b) Melbourne Storm\n(c) Cronulla Sharks\n(d) Sydney Roosters", "b", "This team is not from New South Wales"),
     Question("Which player made the most tackles this season?\n(a) Blayke Brailey\n(b) Chris Randall\n(c) Reed Mahoney\n(d) Jacob Liddle", "c", "This player was a former Parramatta Eels player"),
     Question("What club fielded the youngest team in NRL history this season?\n(a) Gold Coast Titans\n(b) Canterbury-Bankstown Bulldogs\n(c) Wests Tigers\n(d) St George Dragons", "c", "This team's home field is in Leichhardt"),
