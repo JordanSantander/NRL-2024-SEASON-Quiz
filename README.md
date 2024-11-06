@@ -38,6 +38,6 @@ To access this quiz you can:
 
 Make an account with Replit and run the code on this link https://replit.com/@jordansantande1/2024-NRL-Season-Quiz#main.py 
 
-Access it via Google Collab which requires an email login https://colab.research.google.com/drive/11XWFl3IuUlrnWH4Z-_3r1L-3lQRIdkwq?usp=sharing
+Access it via Google Collab which requires an email login and then you are required to press run. https://colab.research.google.com/drive/11XWFl3IuUlrnWH4Z-_3r1L-3lQRIdkwq?usp=sharing
 
 To complete this quiz. Make your way through the questions by reading and then answering yes or no to wanting a hint. Then input your answer by typing a lowercase letter from options a-d. Complete all 10 questions and you will be categorised on what kind of NRL fan you are.
