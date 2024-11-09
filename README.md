@@ -17,10 +17,12 @@ General Info
 
 The NRL 2024 Season Quiz was built to test NRL fans on the knowlegde of the recently completed NRL season. The quiz invites participants to partake in a 10 multiple choice question quiz that includes hints to each question. The quiz was designed to coincide with the end of the NRL season, serving to provide new content to  people hungry for that continuous piece of NRL content in the off season. By the end of the quiz you will be categorised on the level of NRL fan you are from beginner to superfan.
 
+
 Software
 
 This project was completed with the use of Integrated Development Environment Replit. 
 Here's a link to the code in replt https://replit.com/@jordansantande1/2024-NRL-Season-Quiz#main.py 
+
 
 Sources
 
@@ -34,9 +36,11 @@ Brocode Youtube Channel: https://www.youtube.com/watch?v=zehwgTB0vV8
 
 Freecodecamp: https://www.freecodecamp.org/news/how-to-use-replit/
 
+
 Project Journal
 
 Link to journal: https://miro.com/app/board/uXjVLQWPwko=/?share_link_id=866813442850
+
 
 How to use
 
