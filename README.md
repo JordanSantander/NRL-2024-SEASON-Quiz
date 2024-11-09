@@ -8,7 +8,9 @@ Contents
 
 3 Sources
 
-4 How to use
+4 Project Journal
+
+5 How to use
 
 
 General Info
@@ -31,6 +33,10 @@ Makeuseof: How to Make an Interactive Quiz Game in Python https://www.makeuseof.
 Brocode Youtube Channel: https://www.youtube.com/watch?v=zehwgTB0vV8
 
 Freecodecamp: https://www.freecodecamp.org/news/how-to-use-replit/
+
+Project Journal
+
+Link to journal: https://miro.com/app/board/uXjVLQWPwko=/?share_link_id=866813442850
 
 How to use
 
